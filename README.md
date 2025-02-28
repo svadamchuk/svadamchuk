@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Serhii Adamchuk - DevOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sergiy-adamchuk)
+🇺🇦 [Ukrainian version](https://github.com/svadamchuk/svadamchuk/blob/main/README_UKR.md)
 
 ## 🛠️ About Me
 
